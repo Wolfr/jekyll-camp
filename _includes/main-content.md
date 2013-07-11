@@ -33,10 +33,7 @@ attendees. The event will most likely happen in September 2013.
 | Markdown parsers: Kramdown, Red Carpet, what?                                                | ?                    |
 {: .table .table-bordered}
   
-###  Interested (13)
-  
-2 more interested people needed
-{: .highlight }
+###  Interested
 
 * Gregory Van Looy
 * Anthony Ringoet
@@ -51,6 +48,7 @@ attendees. The event will most likely happen in September 2013.
 * Bart Braem 
 * Steven Benisek
 * Koen Van der Auwera
+* Jochen Vandendriessche
 {: .multi-col .unstyled}
 
 
