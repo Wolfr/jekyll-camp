@@ -54,6 +54,6 @@ attendees. The event will most likely happen in September 2013.
 
 ### Take action!
 
-* **Propose a session:** E-mail wolf@wolfslittlestore.be and we’ll add it to the list.
-* **Give a session:** E-mail wolf@wolfslittlestore.be about your skill level, which topics you would be able to give.
+* **Propose a session:** E-mail [jekyll@wolfslittlestore.be](mailto:jekyll@wolfslittlestore.be) and we’ll add it to the list.
+* **Give a session:** E-mail [jekyll@wolfslittlestore.be](mailto:jekyll@wolfslittlestore.be) about your skill level, which topics you would be able to give.
 * **Edit this site:** [Fork it on Github](https://github.com/Wolfr/jekyll-camp) and PR your changes.
