@@ -1,0 +1,9 @@
+---
+layout: default
+title: Jekyll Camp
+---
+
+{% capture maincontent %}
+  {% include main-content.md %}
+{% endcapture %}
+{{ maincontent | markdownify }}
