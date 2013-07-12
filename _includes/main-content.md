@@ -68,6 +68,7 @@ The power of automating your workflow using Jekyll combined with grunt. Whether 
 * Johan Ronsse
 * Frederik Heyninck
 * Jochen Vandendriessche
+{: .multi-col .unstyled}
 
 ###  Interested
 
