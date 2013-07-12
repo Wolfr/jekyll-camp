@@ -1,6 +1,5 @@
 
 
-
 # Jekyll Camp
 
 ### A barcamp style afternoon about Jekyll
@@ -81,6 +80,7 @@ How Jekyll gets used in a bigger project.
 * Jan De Poorter
 * Dieter Wyns
 * Kristof Van Landschoot
+* Thomas Deceuninck
 {: .multi-col .unstyled}
 
 ### Take action!
