@@ -16,17 +16,20 @@ We’ll find a location where we can set up a projector and have some drinks, an
 
 ### Sessions
 
-1 more speaker/session needed.
+We have enough sessions but more ideas or refinement, or extra sessions are always welcome.
 {: .highlight }
 
-| Session                     | Speaker                                  | Length                                   |
-| --------------------------- |:----------------------------------------:|:----------------------------------------:|
-| Getting started with Jekyll | Johan Ronsse                             | Probably around 45"                      |
-| Jekyll (a case study)       | Jelle Desrasmaults                       | ?                                        |
-| A Grunt/jekyll workflow     | Jochen Vandendriessche, Gregory van Looy | ?                                        |
+| Session                     | Speaker                                  | Length                                   | Level                                    |
+| --------------------------- |:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
+| Getting started with Jekyll | Johan Ronsse                             | Probably around 45"                      | Beginner                                 |
+| Jekyll (a case study)       | Jelle Desrasmaults                       | ?                                        | Intermediate                             |
+| A Grunt/jekyll workflow     | Jochen Vandendriessche, Gregory van Looy | ?                                        | Intermediate                             |
+| Porting Jekyll to Javascript| Kristof van Landschoot                   | ?                                        | ?                                        |
 {: .table .table-bordered}
 
 #### Getting started with Jekyll
+
+Speaker: Johan Ronsse
 
 Session contents:
 
@@ -48,9 +51,13 @@ Session contents:
 
 #### Jekyll: a case study
 
+Speaker: Jelle Desrasmaults
+
 Case study on how a Jekyll site was built.
 
-#### A Grunt/jekyll workflow
+#### A Grunt/Jekyll workflow
+
+Speaker: Jochen Vandenddriesche &amp; Gregory Van Looy
 
 The power of automating your workflow using Jekyll combined with grunt. Whether you're a one man team or part of a large team, keep doing what you love to do instead of wasting time doing repetitive tasks.
 
@@ -62,6 +69,12 @@ The power of automating your workflow using Jekyll combined with grunt. Whether 
   * Javascript linting
   * Javascript Unit testing with Jasmine / PhantomJS
   * Concatenate, minify and obfuscate javascript
+
+#### Porting Jekyll to javascript
+
+Speaker: Kristof van Landschoot
+
+Why would you port Jekull to javascript? The what and the how, plus a demo.
 
 ###  Attendees
 
