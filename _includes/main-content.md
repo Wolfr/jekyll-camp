@@ -49,6 +49,7 @@ attendees. The event will most likely happen in September 2013.
 * Steven Benisek
 * Koen Van der Auwera
 * Jochen Vandendriessche
+* Bert Devriese
 {: .multi-col .unstyled}
 
 
