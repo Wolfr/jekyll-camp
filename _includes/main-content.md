@@ -53,12 +53,15 @@ Case study on how a Jekyll site was built.
 
 How Jekyll gets used in a bigger project.
 
+###  Attendees
+
+* Johan Ronsse
+
 ###  Interested
 
 * Gregory Van Looy
 * Anthony Ringoet
 * Jelle Desrasmaults
-* Johan Ronsse
 * Stijn De Meyer
 * Xavier Bertels
 * Bart van de Putte
