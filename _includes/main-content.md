@@ -56,6 +56,7 @@ How Jekyll gets used in a bigger project.
 ###  Attendees
 
 * Johan Ronsse
+{: .multi-col .unstyled}
 
 ###  Interested
 
