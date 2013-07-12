@@ -1,5 +1,4 @@
 
-
 # Jekyll Camp
 
 ### A barcamp style afternoon about Jekyll
@@ -74,7 +73,7 @@ The power of automating your workflow using Jekyll combined with grunt. Whether 
 
 Speaker: Kristof van Landschoot
 
-Why would you port Jekull to javascript? The what and the how, plus a demo.
+Why would you port Jekyll to javascript? The what and the how, plus a demo.
 
 ###  Attendees
 
