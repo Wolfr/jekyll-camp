@@ -19,11 +19,11 @@ We’ll find a location where we can set up a projector and have some drinks, an
 1 more speaker/session needed.
 {: .highlight }
 
-| Session                     | Speaker                                  |
-| --------------------------- |:----------------------------------------:|
-| Getting started with Jekyll | Johan Ronsse                             |
-| Jekyll (a case study)       | Jelle Desrasmaults                       |
-| A Grunt/jekyll workflow     | Jochen Vandendriessche, Gregory van Looy |
+| Session                     | Speaker                                  | Length                                   |
+| --------------------------- |:----------------------------------------:|:----------------------------------------:|
+| Getting started with Jekyll | Johan Ronsse                             | Probably around 45"                      |
+| Jekyll (a case study)       | Jelle Desrasmaults                       | ?                                        |
+| A Grunt/jekyll workflow     | Jochen Vandendriessche, Gregory van Looy | ?                                        |
 {: .table .table-bordered}
 
 #### Getting started with Jekyll
