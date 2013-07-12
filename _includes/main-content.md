@@ -9,7 +9,6 @@ We’ll find a location where we can set up a projector and have some drinks, an
 
 ### When/where?
 
-
 * When: please enter your availability [in the doodle](http://www.doodle.com/y5qzzb85w2i3wqxw#table)
 * Based on the interested people the event will be held in **Ghent, Belgium**
 * We are looking for a cosy location in Ghent that can host max. 20 people for an afternoon.
