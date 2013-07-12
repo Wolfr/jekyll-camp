@@ -1,4 +1,3 @@
-
 # Jekyll Camp
 
 ### A barcamp style afternoon about Jekyll
@@ -74,6 +73,7 @@ How Jekyll gets used in a bigger project.
 * Koen Van der Auwera
 * Jochen Vandendriessche
 * Bert Devriese
+* Bram Van Damme
 {: .multi-col .unstyled}
 
 ### Take action!
