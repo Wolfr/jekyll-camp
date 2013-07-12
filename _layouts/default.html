@@ -12,12 +12,21 @@
     html {
       margin: 20px auto;
     }
+    
+    ul p {
+      margin: 0;
+    }
 
     body {
       max-width: 800px;
       margin: 0 auto;
+      line-height: 1.5;
       
       font-family: 'Gotham SSm A', 'Gotham SSm B', Arial, sans-serif; font-weight: 400; font-style: normal;
+    }
+    
+    .table th, .table td {
+      text-align: left;
     }
     
     h1, h2, h3, h4 {
@@ -32,9 +41,9 @@
 
     @media all and (min-width: 800px) {
       .multi-col {
-        -webkit-column-count: 5;  -webkit-column-gap: 15px;
-           -moz-column-count: 5;     -moz-column-gap: 15px;
-                column-count: 5;          column-gap: 15px;
+        -webkit-column-count: 3;  -webkit-column-gap: 15px;
+           -moz-column-count: 3;     -moz-column-gap: 15px;
+                column-count: 3;          column-gap: 15px;
       }
     }
     

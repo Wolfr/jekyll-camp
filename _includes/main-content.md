@@ -9,30 +9,51 @@ We’ll find a location where we can set up a projector and have some drinks, an
 
 ### When/where?
 
-If we can find 15 interested people and 4 speakers the event
-will happen. The date will be doodled. The location is dependent
-on the attendees - the majority wins. We aim to have 10
-attendees. The event will most likely happen in September 2013.
 
-### Session proposals
+* When: please enter your availability [in the doodle](http://www.doodle.com/y5qzzb85w2i3wqxw#table)
+* Based on the interested people the event will be held in **Ghent, Belgium**
+* We are looking for a cosy location in Ghent that can host max. 20 people for an afternoon.
 
-3 more speakers needed
+### Sessions
+
+1 more speaker/session needed.
 {: .highlight }
 
-| Session                                                                                      | Speaker              |
-| -------------------------------------------------------------------------------------------- |:--------------------:|
-| Getting started with Jekyll                                                                  | Johan Ronsse         |
-| Basics: layouts and includes                                                                 | ?                    |
-| Using real data in HTML prototypes using {% raw %}{% cycle %}{% endraw %}                    | ?                    |
-| Displaying page state with YAML front matter {% raw %}({% if %}, {% unless %}){% endraw %}   | ?                    |
-| Blogging with Jekyll                                                                         | ?                    |
-|     The paginator object                                                                     | ?                    |
-|     Making an RSS feed                                                                       | ?                    |
-| Parsing data structures (a case study)                                                       | ?                    |
-| Making Jekyll plugins: e.g. cycle random, file exists                                        | ?                    |
-| Markdown parsers: Kramdown, Red Carpet, what?                                                | ?                    |
+| Session                     | Speaker                                  |
+| --------------------------- |:----------------------------------------:|
+| Getting started with Jekyll | Johan Ronsse                             |
+| Jekyll (a case study)       | Jelle Desrasmaults                       |
+| A Grunt/jekyll workflow     | Jochen Vandendriessche, Gregory van Looy |
 {: .table .table-bordered}
-  
+
+#### Getting started with Jekyll
+
+Session contents:
+
+* Basics: layouts and includes
+* Intro to Liquid
+  * Using real data in HTML prototypes using {% raw %}{% cycle %}{% endraw %}
+  * Displaying page state with YAML front matter {% raw %}({% if %}, {% unless %}){% endraw %}
+* Blogging with Jekyll
+  * The paginator object
+  * Making an RSS feed
+  * Sitemap.xml with Jekyll
+* The Jekyll site config object
+* Managing links and permalinks
+* Markdown parsers
+  * Maruku, Kramdown, Red Carpet
+  * Footnotes with Kramdown
+* Adding open graph metadata to your site
+* Jekyll plugins - my experience so far e.g. cycle random, file exists
+
+#### Jekyll: a case study
+
+Case study on how a Jekyll site was built.
+
+#### A Grunt/jekyll workflow
+
+How Jekyll gets used in a bigger project.
+
 ###  Interested
 
 * Gregory Van Looy
@@ -51,7 +72,6 @@ attendees. The event will most likely happen in September 2013.
 * Jochen Vandendriessche
 * Bert Devriese
 {: .multi-col .unstyled}
-
 
 ### Take action!
 
