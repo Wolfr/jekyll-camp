@@ -78,6 +78,7 @@ How Jekyll gets used in a bigger project.
 * Bram Van Damme
 * Jan De Poorter
 * Dieter Wyns
+* Kristof Van Landschoot
 {: .multi-col .unstyled}
 
 ### Take action!
