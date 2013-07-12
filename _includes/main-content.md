@@ -52,11 +52,21 @@ Case study on how a Jekyll site was built.
 
 #### A Grunt/jekyll workflow
 
-How Jekyll gets used in a bigger project.
+The power of automating your workflow using Jekyll combined with grunt. Whether you're a one man team or part of a large team, keep doing what you love to do instead of wasting time doing repetitive tasks.
+
+* Why?
+* Intro to grunt
+* Kickass grunt plugins that will make your life easy
+  * SASS and Compass
+  * Creating a styleguide on the fly using nothing but CSS comments
+  * Javascript linting
+  * Javascript Unit testing with Jasmine / PhantomJS
+  * Concatenate, minify and obfuscate javascript
 
 ###  Attendees
 
 * Johan Ronsse
+* Jochen Vandendriessche
 {: .multi-col .unstyled}
 
 ###  Interested
@@ -73,7 +83,6 @@ How Jekyll gets used in a bigger project.
 * Bart Braem 
 * Steven Benisek
 * Koen Van der Auwera
-* Jochen Vandendriessche
 * Bert Devriese
 * Bram Van Damme
 * Jan De Poorter
