@@ -1,4 +1,3 @@
-
 # Jekyll Camp
 
 ### A barcamp style afternoon about Jekyll
@@ -89,7 +88,7 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Jelle Desrasmaults
 * Stijn De Meyer
 * Xavier Bertels
-* Bart van de Putte
+* Bart Vandeputte
 * Bram Janssens
 * Hannes Fostie
 * Nicolas Mertens
