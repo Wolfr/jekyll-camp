@@ -9,9 +9,8 @@ We’ll find a location where we can set up a projector and have some drinks, an
 
 ### When/where?
 
-* When: please enter your availability [in the doodle](http://www.doodle.com/y5qzzb85w2i3wqxw#table)
-* Based on the interested people the event will be held in **Ghent, Belgium**
-* We are looking for a cosy location in Ghent that can host max. 20 people for an afternoon.
+* The event will be held in **Ghent, Belgium** on Friday September 6
+* We are looking for a cosy location in Ghent that can host max. 20 people for an afternoon. We have a location but it's not confirmed yet.
 
 ### Sessions
 
@@ -106,6 +105,7 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 
 ### Take action!
 
+* **I want to come:** PR this site or e-mail [jekyll@wolfslittlestore.be](mailto:jekyll@wolfslittlestore.be) and we'll add you to the list
 * **Propose a session:** E-mail [jekyll@wolfslittlestore.be](mailto:jekyll@wolfslittlestore.be) and we’ll add it to the list.
 * **Give a session:** E-mail [jekyll@wolfslittlestore.be](mailto:jekyll@wolfslittlestore.be) about your skill level, which topics you would be able to give.
 * **Edit this site:** [Fork it on Github](https://github.com/Wolfr/jekyll-camp) and PR your changes.
