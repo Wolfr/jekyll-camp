@@ -79,12 +79,12 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Johan Ronsse
 * Frederik Heyninck
 * Jochen Vandendriessche
-* Anthony Ringoet
+* Gregory Van Looy
 {: .multi-col .unstyled}
 
 ###  Interested
 
-* Gregory Van Looy
+* Anthony Ringoet
 * Jelle Desrasmaults
 * Stijn De Meyer
 * Xavier Bertels
