@@ -9,7 +9,7 @@ We’ll find a location where we can set up a projector and have some drinks, an
 
 ### When/where?
 
-* The event will be held in **Ghent, Belgium** on Friday September 6
+* The event will be held in **Ghent, Belgium** on Friday September 6 from 13:00 to 17:30
 * We are looking for a cosy location in Ghent that can host max. 20 people for an afternoon. We have a location but it's not confirmed yet.
 
 ### Sessions
