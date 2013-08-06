@@ -1,4 +1,3 @@
-
 # Jekyll Camp
 
 ### A barcamp style afternoon about Jekyll
@@ -83,6 +82,7 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Jelle Desrasmaults
 * Karel Persoons
 * Pieter De Clercq
+* Koen Van der Auwera
 {: .multi-col .unstyled}
 
 ###  Interested
@@ -96,7 +96,6 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Nicolas Mertens
 * Bart Braem 
 * Steven Benisek
-* Koen Van der Auwera
 * Bert Devriese
 * Bram Van Damme
 * Jan De Poorter
