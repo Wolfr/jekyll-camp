@@ -1,5 +1,4 @@
 
-
 # Jekyll Camp
 
 ### A barcamp style afternoon about Jekyll
@@ -78,7 +77,6 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 ###  Attendees
 
 * Johan Ronsse
-* Frederik Heyninck
 * Jochen Vandendriessche
 * Gregory Van Looy
 * Jelle Desrasmaults
