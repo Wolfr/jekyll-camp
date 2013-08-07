@@ -10,8 +10,8 @@ We’ll find a location where we can set up a projector and have some drinks, an
 
 ### When/where?
 
-* The event will be held in **Ghent, Belgium** on Friday September 6 from 13:00 to 17:30
-* We are looking for a cosy location in Ghent that can host max. 20 people for an afternoon. We have a location but it's not confirmed yet.
+* The event will be held at **KaHo Sint Lieven** (Gebroeders de Smetstraat 1, 9000 Gent) on Friday September 6 from 13:00 to 17:30
+* More details about where on the campus you need to go will be provided soon
 
 ### Sessions
 
@@ -89,6 +89,7 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Xavier Bertels
 * Tom Hermans
 * Thomas Deceuninck
+* Bram Van Damme
 {: .multi-col .unstyled}
 
 ###  Interested
@@ -101,7 +102,6 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Nicolas Mertens
 * Bart Braem 
 * Steven Benisek
-* Bram Van Damme
 * Jan De Poorter
 * Dieter Wyns
 * Kristof Van Landschoot
