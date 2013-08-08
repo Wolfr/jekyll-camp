@@ -88,6 +88,7 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Tom Hermans
 * Thomas Deceuninck
 * Bram Van Damme
+* Bram Janssens
 {: .multi-col .unstyled}
 
 ###  Interested
@@ -95,7 +96,6 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Anthony Ringoet
 * Stijn De Meyer
 * Bart van de Putte
-* Bram Janssens
 * Hannes Fostie
 * Nicolas Mertens
 * Bart Braem 
