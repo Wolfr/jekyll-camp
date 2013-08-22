@@ -91,6 +91,7 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Bram Van Damme
 * Bram Janssens
 * Steven Benisek
+* Frederik Vincx
 {: .multi-col .unstyled}
 
 ###  Interested
