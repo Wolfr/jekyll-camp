@@ -24,7 +24,7 @@ We have enough sessions but more ideas or refinement, or extra sessions are alwa
 | Jekyll: a case study        | Jelle Desrasmaults                       | ?                                        | Beginner/Intermediate                    |
 | A Grunt/Jekyll workflow     | Gregory van Looy                         | 15"                                      | Intermediate                             |
 | Javascript unit testing     | Jochen Vandendriessche                   | 15"                                      | Intermediate                             |
-| Porting Jekyll to Javascript| Kristof van Landschoot                   | ?                                        | Advanced                                 |
+| Porting Jekyll to Javascript| Kristof van Landschoot                   | 30"                                      | Advanced                                 |
 {: .table .table-bordered}
 
 #### Getting started with Jekyll
