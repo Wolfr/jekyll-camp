@@ -20,10 +20,11 @@ We have enough sessions but more ideas or refinement, or extra sessions are alwa
 
 | Session                     | Speaker                                  | Length                                   | Level                                    |
 | --------------------------- |:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
-| Getting started with Jekyll | Johan Ronsse                             | Probably around 45"                      | Beginner                                 |
-| Jekyll (a case study)       | Jelle Desrasmaults                       | ?                                        | Intermediate                             |
-| A Grunt/jekyll workflow     | Jochen Vandendriessche, Gregory van Looy | ?                                        | Intermediate                             |
-| Porting Jekyll to Javascript| Kristof van Landschoot                   | ?                                        | ?                                        |
+| Getting started with Jekyll | Johan Ronsse                             | 45"                                      | Beginner                                 |
+| Jekyll: a case study        | Jelle Desrasmaults                       | ?                                        | Beginner/Intermediate                    |
+| A Grunt/Jekyll workflow     | Gregory van Looy                         | 15"                                      | Intermediate                             |
+| Javascript unit testing     | Jochen Vandendriessche                   | 15"                                      | Intermediate                             |
+| Porting Jekyll to Javascript| Kristof van Landschoot                   | ?                                        | Advanced                                 |
 {: .table .table-bordered}
 
 #### Getting started with Jekyll
@@ -47,16 +48,17 @@ Session contents:
   * Footnotes with Kramdown
 * Adding open graph metadata to your site
 * Jekyll plugins - my experience so far e.g. cycle random, file exists
+* Providing test websites for clients with baseurl
 
 #### Jekyll: a case study
 
-Speaker: Jelle Desrasmaults
+*Speaker: Jelle Desrasmaults*
 
 Case study on how a Jekyll site was built.
 
 #### A Grunt/Jekyll workflow
 
-Speaker: Jochen Vandenddriesche &amp; Gregory Van Looy
+*Speaker: Gregory Van Looy*
 
 The power of automating your workflow using Jekyll combined with grunt. Whether you're a one man team or part of a large team, keep doing what you love to do instead of wasting time doing repetitive tasks.
 
@@ -65,13 +67,20 @@ The power of automating your workflow using Jekyll combined with grunt. Whether 
 * Kickass Grunt plugins that will make your life easy
   * SASS and Compass
   * Creating a styleguide on the fly using nothing but CSS comments
-  * Javascript linting
-  * Javascript Unit testing with Jasmine / PhantomJS
   * Concatenate, minify and obfuscate javascript
+
+#### JS unit testing
+
+Speaker: *Jochen Vandenddriesche*
+
+Jochen will talk about how he handles Javascript unit testing.
+
+* Javascript linting
+* Javascript Unit testing with Jasmine / PhantomJS
 
 #### Porting Jekyll to javascript
 
-Speaker: Kristof van Landschoot
+*Speaker: Kristof van Landschoot*
 
 Why would you port Jekyll to javascript? The what and the how, plus a demo.
 
