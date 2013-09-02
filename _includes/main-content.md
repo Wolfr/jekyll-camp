@@ -111,7 +111,6 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 
 * Anthony Ringoet
 * Stijn De Meyer
-
 * Hannes Fostie
 * Nicolas Mertens
 * Bart Braem 
