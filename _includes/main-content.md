@@ -103,13 +103,15 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Frederik Vincx
 * Thomas Decrick
 * Erwin Heiser
+* Bart van de Putte
+* Peter Vermaercke
 {: .multi-col .unstyled}
 
 ###  Interested
 
 * Anthony Ringoet
 * Stijn De Meyer
-* Bart van de Putte
+
 * Hannes Fostie
 * Nicolas Mertens
 * Bart Braem 
