@@ -10,7 +10,8 @@ We’ll find a location where we can set up a projector and have some drinks, an
 
 ### When/where?
 
-* The event will be held at **KaHo Sint Lieven** (Gebroeders de Smetstraat 1, 9000 Gent) on Friday September 6 from 13:00 to 17:30
+* The event will be held at **KaHo Sint Lieven** (Gebroeders de Smetstraat 1, 9000 Gent) on Friday September 6 from 13:00 to 17:30.
+* More specifically, head to classroom L226, in the L-blok of the campus on the 2nd floor (<a href="http://cl.ly/image/2n3L3Q382g3S">see this plan</a>)
 * More details about where on the campus you need to go will be provided soon
 
 ### Sessions
