@@ -21,7 +21,7 @@ We have enough sessions but more ideas or refinement, or extra sessions are alwa
 | Session                     | Speaker                                  | Length                                   | Level                                    |
 | --------------------------- |:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
 | Getting started with Jekyll | Johan Ronsse                             | 45"                                      | Beginner                                 |
-| Jekyll: a case study        | Jelle Desrasmaults                       | ?                                        | Beginner/Intermediate                    |
+| Jekyll: a case study        | Jelle Desrasmaults                       | 10"                                      | Beginner/Intermediate                    |
 | A Grunt/Jekyll workflow     | Gregory van Looy                         | 15"                                      | Intermediate                             |
 | Javascript unit testing     | Jochen Vandendriessche                   | 15"                                      | Intermediate                             |
 | Porting Jekyll to Javascript| Kristof van Landschoot                   | 30"                                      | Advanced                                 |
