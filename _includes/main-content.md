@@ -108,6 +108,7 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Benjamin De Wilde
 * Sven Munaron
 * Nicolas Teirlinckx
+* Kristof Van Landschoot
 {: .multi-col .unstyled}
 
 ###  Interested
@@ -119,7 +120,6 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Bart Braem 
 * Jan De Poorter
 * Dieter Wyns
-* Kristof Van Landschoot
 {: .multi-col .unstyled}
 
 ### Take action!
