@@ -19,8 +19,6 @@ We had 6 talks:
 | Porting Jekyll to Javascript| Kristof van Landschoot                   | 30"                                      | Advanced                                 |
 {: .table .table-bordered}
 
-And an impromptu talk about <a href="http://prose.io/">prose.io</a> (thanks Pieter De Clerq!)
-
 #### Getting started with Jekyll
 
 *Speaker: Johan Ronsse*
@@ -66,6 +64,12 @@ The power of automating your workflow using Jekyll combined with grunt. Whether 
   * SASS and Compass
   * Creating a styleguide on the fly using nothing but CSS comments
   * Concatenate, minify and obfuscate javascript
+
+#### Prose.io
+
+Speaker: *Pieter de Clerq*
+
+Pieter told us about [http://prose.io](Prose.io), which you could use as a CMS solution for Jekyll based websites.
 
 #### JS unit testing
 
