@@ -7,7 +7,7 @@ Jekyll camp was an event that was held on 6 september 2013 in Ghent at the KaHo 
 
 It was a small barcamp style afternoon with about 18 attendees.
 
-We had 5 talks:
+We had 6 talks:
 
 | Session                     | Speaker                                  | Length                                   | Level                                    |
 | --------------------------- |:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
