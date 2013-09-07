@@ -23,7 +23,7 @@ We had 6 talks:
 
 *Speaker: Johan Ronsse*
 
-Slides: [http://wolfr.github.io/intro-to-jekyll/#/](Intro to Jekyll)
+Slides: [Intro to Jekyll](http://wolfr.github.io/intro-to-jekyll/)
 
 Session contents:
 
@@ -54,7 +54,7 @@ Case study on how a Jekyll site was built.
 
 *Speaker: Gregory Van Looy*
 
-Slides: [http://bengie.github.io/some-kind-of-workflow/#/](Some kind of workflow)
+Slides: [Some kind of workflow](http://bengie.github.io/some-kind-of-workflow/)
 
 The power of automating your workflow using Jekyll combined with grunt. Whether you're a one man team or part of a large team, keep doing what you love to do instead of wasting time doing repetitive tasks.
 
@@ -69,7 +69,7 @@ The power of automating your workflow using Jekyll combined with grunt. Whether 
 
 Speaker: *Pieter de Clerq*
 
-Pieter told us about [http://prose.io](Prose.io), which you could use as a CMS solution for Jekyll based websites.
+Pieter told us about [Prose.io](http://prose.io), which you could use as a CMS solution for Jekyll based websites.
 
 #### JS unit testing
 
