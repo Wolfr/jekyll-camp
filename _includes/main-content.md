@@ -108,22 +108,6 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Kristof Van Landschoot
 {: .multi-col .unstyled}
 
-###  Interested
-
-* Xavier Bertels
-* Tom Hermans
-* Frederik Vincx
-* Peter Vermaercke
-* Koen Van der Auwera
-* Anthony Ringoet
-* Stijn De Meyer
-* Hannes Fostie
-* Nicolas Mertens
-* Bart Braem 
-* Jan De Poorter
-* Dieter Wyns
-{: .multi-col .unstyled}
-
 ### Take action!
 
 Jekyll camp is over but you can still:
