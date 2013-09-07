@@ -3,33 +3,29 @@
 
 ### A barcamp style afternoon about Jekyll
 
-### How it works
+Jekyll camp was an event that was held on 6 september 2013 in Ghent at the KaHo Sint Lieven campus.
 
-We’ll find a location where we can set up a projector and have some drinks, and then it’s session time. Anyone is free to give a session. For this first time we aim to keep things small.
+It was a small barcamp style afternoon with about 18 attendees.
 
-### When/where?
-
-* The event will be held at **KaHo Sint Lieven** (Gebroeders de Smetstraat 1, 9000 Gent) on Friday September 6 from 13:00 to 17:30.
-* More specifically, head to classroom L226, in the L-block of the campus on the 2nd floor (<a href="http://cl.ly/image/2n3L3Q382g3S">see this plan</a>)
-* Parking on-campus is possible (again, <a href="http://cl.ly/image/2n3L3Q382g3S">see this plan</a>)
-
-### Sessions
-
-We have enough sessions but more ideas or refinement, or extra sessions are always welcome.
-{: .highlight }
+We had 5 talks:
 
 | Session                     | Speaker                                  | Length                                   | Level                                    |
 | --------------------------- |:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
 | Getting started with Jekyll | Johan Ronsse                             | 45"                                      | Beginner                                 |
 | Jekyll: a case study        | Jelle Desrasmaults                       | 10"                                      | Beginner/Intermediate                    |
 | A Grunt/Jekyll workflow     | Gregory van Looy                         | 15"                                      | Intermediate                             |
+| Prose.io                    | Pieter de Clerq                          | 5"                                       | Beginner/Intermediate                    |
 | Javascript unit testing     | Jochen Vandendriessche                   | 15"                                      | Intermediate                             |
 | Porting Jekyll to Javascript| Kristof van Landschoot                   | 30"                                      | Advanced                                 |
 {: .table .table-bordered}
 
+And an impromptu talk about <a href="http://prose.io/">prose.io</a> (thanks Pieter De Clerq!)
+
 #### Getting started with Jekyll
 
-Speaker: Johan Ronsse
+*Speaker: Johan Ronsse*
+
+Slides: [http://wolfr.github.io/intro-to-jekyll/#/](Intro to Jekyll)
 
 Session contents:
 
@@ -60,6 +56,8 @@ Case study on how a Jekyll site was built.
 
 *Speaker: Gregory Van Looy*
 
+Slides: [http://bengie.github.io/some-kind-of-workflow/#/](Some kind of workflow)
+
 The power of automating your workflow using Jekyll combined with grunt. Whether you're a one man team or part of a large team, keep doing what you love to do instead of wasting time doing repetitive tasks.
 
 * Why?
@@ -73,7 +71,7 @@ The power of automating your workflow using Jekyll combined with grunt. Whether 
 
 Speaker: *Jochen Vandenddriesche*
 
-Jochen will talk about how he handles Javascript unit testing.
+Jochen talked about about how he handles Javascript unit testing.
 
 * Javascript linting
 * Javascript Unit testing with Jasmine / PhantomJS
@@ -92,19 +90,14 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 * Jelle Desrasmaults
 * Karel Persoons
 * Pieter De Clercq
-* Koen Van der Auwera
 * Bert Devriese
-* Xavier Bertels
-* Tom Hermans
 * Thomas Deceuninck
 * Bram Van Damme
 * Bram Janssens
 * Steven Benisek
-* Frederik Vincx
 * Thomas Decrick
 * Erwin Heiser
 * Bart van de Putte
-* Peter Vermaercke
 * Benjamin De Wilde
 * Sven Munaron
 * Nicolas Teirlinckx
@@ -113,6 +106,11 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 
 ###  Interested
 
+* Xavier Bertels
+* Tom Hermans
+* Frederik Vincx
+* Peter Vermaercke
+* Koen Van der Auwera
 * Anthony Ringoet
 * Stijn De Meyer
 * Hannes Fostie
@@ -124,7 +122,7 @@ Why would you port Jekyll to javascript? The what and the how, plus a demo.
 
 ### Take action!
 
-* **I want to come:** PR this site or e-mail [jekyll@wolfslittlestore.be](mailto:jekyll@wolfslittlestore.be) and we'll add you to the list
-* **Propose a session:** E-mail [jekyll@wolfslittlestore.be](mailto:jekyll@wolfslittlestore.be) and we’ll add it to the list.
-* **Give a session:** E-mail [jekyll@wolfslittlestore.be](mailto:jekyll@wolfslittlestore.be) about your skill level, which topics you would be able to give.
+Jekyll camp is over but you can still:
+
+* **Propose a new camp:** E-mail [jekyll@wolfslittlestore.be](mailto:jekyll@wolfslittlestore.be), let's talk
 * **Edit this site:** [Fork it on Github](https://github.com/Wolfr/jekyll-camp) and PR your changes.
